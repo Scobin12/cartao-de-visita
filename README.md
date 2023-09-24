@@ -32,5 +32,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
--  
+
 --- 
