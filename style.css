@@ -40,15 +40,15 @@
     .foto img{
         border-radius: 100%;
         border: solid 3px rgba(58, 92, 153, 0.60);
-        width: 33.6vw;
-        height: 17.5vh;
+        width: 28vw;
+        height: 18vh;
         flex-shrink: 0; 
     }
     
     .box-texto{
         margin-top: 9.1vh;
         width: 85vw;
-        height: 62vh;
+        height: 67vh;
         flex-shrink: 0;
         border-radius: 10px;
         border: 3px solid #3A5C99;
