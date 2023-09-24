@@ -40,8 +40,8 @@
     .foto img{
         border-radius: 100%;
         border: solid 3px rgba(58, 92, 153, 0.60);
-        width: 28vw;
-        height: 18vh;
+        width: 33.6vw;
+        height: 17.5vh;
         flex-shrink: 0; 
     }
     
